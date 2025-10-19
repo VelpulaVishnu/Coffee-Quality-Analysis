@@ -1,0 +1,2 @@
+# Coffee Quality Analysis
+This project analyzes Arabica coffee quality data sourced from the Coffee Quality Institute (CQI). It focuses on understanding how attributes such as aroma, flavor, aftertaste, acidity, balance, and body influence the overall coffee score. An interactive Power BI dashboard was built to help coffee producers, traders, and quality evaluators identify the factors contributing to top-quality coffee.
